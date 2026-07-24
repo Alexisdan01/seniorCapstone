@@ -1,0 +1,14 @@
+# Environment variables and secrets
+.env
+.env.local
+
+# Database backups and test files
+db-test.php
+db-test(1).php
+*_backup.sql
+
+# Logs
+*.log
+
+# macOS system files
+.DS_Store
