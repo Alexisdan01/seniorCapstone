@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 675" role="img" aria-labelledby="title desc">
+  <title id="title">Lecture clip placeholder</title>
+  <desc id="desc">Placeholder image for the lecture clip preview.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#ffd9de"/>
+      <stop offset="100%" stop-color="#ebc24a"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="675" fill="url(#bg)"/>
+  <rect x="120" y="82" width="960" height="511" rx="36" fill="#fff4f4" fill-opacity="0.78"/>
+  <polygon points="565,252 565,423 715,337.5" fill="#b12029" fill-opacity="0.88"/>
+  <text x="600" y="520" text-anchor="middle" font-family="Arial, sans-serif" font-size="58" font-weight="700" fill="#4d212a">Lecture Preview</text>
+  <text x="600" y="575" text-anchor="middle" font-family="Arial, sans-serif" font-size="28" fill="#4d212a">Upload assets/images/lecture-clip.jpg</text>
+</svg>
